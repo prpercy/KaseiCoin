@@ -34,7 +34,7 @@ The steps for this Challenge are divided into the following sections:
 ![Results](resources/KaseiCoinCrowdSale-Compilation.png)
 ![Results](resources/KaseiCoinCrowdSaleDeployer-Compilation.png)
 
-> Deployment of Deployer
+> Deployment of Deployer (Input name, symbol and wallet address deatils)
 ![Results](resources/KaseiCoinCrowdSaleDeployer-Deployment_at_Remix.png)
 
 > Link deployer to KaseiCoinCrowdSale contract using the address for CrowdSale from deployer
@@ -44,7 +44,7 @@ The steps for this Challenge are divided into the following sections:
 ![Results](resources/Link-Deployer-KaseiCoin-Token.png)
 
 > Buy KaseiCoins worth 3 ETH
-![Results](resources/Buy3Tokens.png)
+![Results](resources/Buy3Token.png)
 
 > Buy KaseiCoins worth 1 ETH
 ![Results](resources/Buy1Token.png)
@@ -52,11 +52,13 @@ The steps for this Challenge are divided into the following sections:
 > Check balance for recent transaction and address
 ![Results](resources/CheckBalance1Token.png)
 
+> Following are all the transactions (seen in ganache)
+![Results](resources/Operations-blockchain-transactions.png)
+
 > Check total supply
 ![Results](resources/totalBalance_checkBalance.png)
 
-> Following are all the transactions seen in ganache
-![Results](resources/Operations-blockchain-transactions.png)
+
 
 
 ---
