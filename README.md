@@ -44,13 +44,13 @@ The steps for this Challenge are divided into the following sections:
 ![Results](resources/Link-Deployer-KaseiCoin-Token.png)
 
 > Buy KaseiCoins worth 3 ETH
-![Results](resources/Buy3Tokens MetaMask-1.png)
+![Results](resources/Buy3Tokens.png)
 
 > Buy KaseiCoins worth 1 ETH
-![Results](resources/Buy1Token MetaMask.png)
+![Results](resources/Buy1Token.png)
 
 > Check balance for recent transaction and address
-![Results](resources/CheckBalance1Token MetaMask.png)
+![Results](resources/CheckBalance1Token.png)
 
 > Check total supply
 ![Results](resources/totalBalance_checkBalance.png)
