@@ -32,18 +32,25 @@ The steps for this Challenge are divided into the following sections:
 > Compile CrowdSale and Deployer contracts
 ![resources](resources/KaseiCoinCrowdSale-Compilation.png)
 ![resources](resources/KaseiCoinCrowdSaleDeployer-Compilation.png)
-> Dployment of 
+> Deployment of Deployer
 ![resources](resources/KaseiCoinCrowdSaleDeployer-Deployment_at_Remix.png)
+> Link deployer to KaseiCoinCrowdSale contract using the address for CrowdSale from deployer
 ![Results](resources/Link-Deployer-CrowdSale.png)
+> Link deployer to KaseiCoin contract using the address for token from deployer
 ![Results](resources/Link-Deployer-KaseiCoin-Token.png)
+> Buy KaseiCoins worth 3 ETH
 ![Results](resources/Buy3Tokens MetaMask-1.png)
+> Buy KaseiCoins worth 1 ETH
 ![Results](resources/Buy1Token MetaMask.png)
+> Check balance for recent transaction and address
 ![Results](resources/CheckBalance1Token MetaMask.png)
+> Check total supply
 ![Results](resources/totalBalance_checkBalance.png)
+> Following are all the transactions seen in ganache
 ![Results](resources/Operations-blockchain-transactions.png)
 
 
-
+---
 ## Installation Guide 
 
 > Compile the contracts in Remix
