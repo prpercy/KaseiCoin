@@ -27,14 +27,20 @@ The steps for this Challenge are divided into the following sections:
 
 #### Evaluation Evidence
 
-![resources](/KaseiCoin-Compilation.png)
-![resources](/KaseiCoinCrowdSale-Compilation.png)
-![resources](/KaseiCoinCrowdSaleDeployer-Compilation.png)
-![resources](/KaseiCoinCrowdSaleDeployer-Deployment_at_Remix.png)
-
-
-
-
+> Compile KaseiCoin contract
+![Results](resources/KaseiCoin-Compilation.png)
+> Compile CrowdSale and Deployer contracts
+![resources](resources/KaseiCoinCrowdSale-Compilation.png)
+![resources](resources/KaseiCoinCrowdSaleDeployer-Compilation.png)
+> Dployment of 
+![resources](resources/KaseiCoinCrowdSaleDeployer-Deployment_at_Remix.png)
+![Results](resources/Link-Deployer-CrowdSale.png)
+![Results](resources/Link-Deployer-KaseiCoin-Token.png)
+![Results](resources/Buy3Tokens MetaMask-1.png)
+![Results](resources/Buy1Token MetaMask.png)
+![Results](resources/CheckBalance1Token MetaMask.png)
+![Results](resources/totalBalance_checkBalance.png)
+![Results](resources/Operations-blockchain-transactions.png)
 
 
 
