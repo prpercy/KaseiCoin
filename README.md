@@ -59,7 +59,12 @@ The steps for this Challenge are divided into the following sections:
 ![Results](resources/totalBalance_checkBalance.png)
 
 
-
+##### Optional Exercise:
+> Added inheritance to CrowdSale contract of Capped, Timed and Refundable-Post-Delivery Crowdsale.
+> Deployed new contracts (with cap of 10 wei).
+![Results](resources/ExtendedContractDeployment.png)
+> And tested for purcahse of 12 tokens. Result is as follows:
+![Results](resources/CappedError.png)
 
 ---
 ## Installation Guide 
